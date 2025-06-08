@@ -3,7 +3,7 @@ import "./global.css";
 import Navbar from "@/components/Navbar/Navbar";
 import TopBar from "@/components/TopBar/Topbar";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Script from "next/script";
+// import Script from "next/script";
 
 export default function RootLayout({
   children,

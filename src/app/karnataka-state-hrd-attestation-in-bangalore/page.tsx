@@ -32,7 +32,7 @@ export default function KaranatakaStateHrd() {
       <HomeService />
       <HomeCountries />
       <HomeWhy />
-      {/* <HomeBlog /> */}
+      <HomeBlog />
       <HomeNews />
       <StateHrdKarnatakaContent />
     </div>

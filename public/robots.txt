@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap:http://foreignembassyapostille.com/sitemap.xml
